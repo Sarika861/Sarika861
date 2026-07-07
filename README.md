@@ -32,6 +32,16 @@ class Sarika:
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Sarika861/Sarika861/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Sarika861/Sarika861/raw/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-28A745?style=for-the-badge&logo=download&logoColor=white" />
+  </a>
+</p>
+
 # ⚡ Current Mission
 
 ✅ Building AI Projects
@@ -66,6 +76,7 @@ class Sarika:
 
 
 ---
+
 
 # 🚀 Favorite Projects
 
@@ -146,6 +157,8 @@ class Sarika:
 LinkedIn → www.linkedin.com/in/sarika-choudhary-a585a7372
 
 Email → choudharysarika244@gmail.com
+
+📥 Download Resume → https://github.com/Sarika861/Sarika861/raw/main/Resume.pdf
 
 ---
 
