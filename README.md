@@ -113,15 +113,6 @@ class Sarika:
 
 ---
 
-# 🏆 Achievement Wall
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarika861&theme=radical&row=2&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
