@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sarika Choudhary</h1>
 
 <h3 align="center">
-💻 AI Enthusiast • 📊 Data Science Learner • 🚀 Full Stack Explorer
+🐍 Python Developer • 📊 Data Science Enthusiast • 🤖 AI & ML Learner
 </h3>
 
 <p align="center">
@@ -18,11 +18,11 @@ class Sarika:
     def __init__(self):
         self.name = "Sarika Choudhary"
         self.role = "Data Science Student"
-        self.language = ["Python","Java","SQL","JavaScript"]
+        self.language = ["Python","HTML","CSS","JavaScript","SQL"]
         self.interests = [
+            "Python",
             "Machine Learning",
             "Deep Learning",
-            "Computer Vision",
             "Web Development"
         ]
 
@@ -36,7 +36,7 @@ class Sarika:
 
 ✅ Building AI Projects
 
-✅ Learning Deep Learning
+✅ Learning Machine Learning
 
 ✅ Exploring LLMs
 
@@ -48,8 +48,6 @@ class Sarika:
 
 🐍 Python
 
-🧠 TensorFlow
-
 📊 Pandas
 
 📈 NumPy
@@ -60,17 +58,12 @@ class Sarika:
 
 👁 OpenCV
 
-⚛ React
-
-⚡ Next.js
-
 🚀 FastAPI
 
 🔥 Flask
 
 🛢 MySQL
 
-🍃 MongoDB
 
 ---
 
@@ -78,11 +71,9 @@ class Sarika:
 
 🧠 Resume Parser & Job Matcher
 
-🤖 AI Interview Analyzer
-
 🩺 Face Mask Detection
 
-🥔 Potato Disease Detection
+🧴 Skincare Recommendation System
 
 🏡 House Price Prediction
 
@@ -93,9 +84,9 @@ class Sarika:
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarika861&show_icons=true&theme=radical"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika861&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -104,7 +95,7 @@ class Sarika:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=Sarika861&theme=radical"/>
 
 </p>
 
@@ -114,7 +105,7 @@ class Sarika:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sarika861&theme=radical&row=2&column=4"/>
 
 </p>
 
@@ -122,7 +113,7 @@ class Sarika:
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarika861&theme=react-dark"/>
 
 ---
 
@@ -135,8 +126,6 @@ class Sarika:
 🎯 Crack a Data Science Internship
 
 🎯 Contribute to Open Source
-
-🎯 Master DSA
 
 ---
 
@@ -154,11 +143,9 @@ class Sarika:
 
 # 🌍 Connect With Me
 
-LinkedIn → YOUR_LINKEDIN
+LinkedIn → www.linkedin.com/in/sarika-choudhary-a585a7372
 
-Portfolio → YOUR_PORTFOLIO
-
-Email → YOUR_EMAIL
+Email → choudharysarika244@gmail.com
 
 ---
 
