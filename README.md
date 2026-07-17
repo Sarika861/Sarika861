@@ -149,7 +149,7 @@ class Sarika:
 
 LinkedIn → www.linkedin.com/in/sarika-choudhary-a585a7372
 
-📥 Download Resume → https://github.com/Sarika861/Sarika861/raw/main/Final resume.pdf
+📥 Download Resume → Final resume.pdf
 
 Portfolio -> https://my-portfolio-lovat-seven-99.vercel.app/
 
