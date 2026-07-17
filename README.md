@@ -1,4 +1,4 @@
-[Final resume.pdf](https://github.com/user-attachments/files/30131590/Final.resume.pdf)
+
 <h1 align="center">Hi 👋 I'm Sarika Choudhary</h1>
 
 <h3 align="center">
