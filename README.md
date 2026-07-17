@@ -148,9 +148,11 @@ class Sarika:
 
 LinkedIn → www.linkedin.com/in/sarika-choudhary-a585a7372
 
-Email → choudharysarika244@gmail.com
+📥 Download Resume → https://github.com/Sarika861/Sarika861/raw/main/Final resume.pdf
 
-📥 Download Resume → https://github.com/Sarika861/Sarika861/raw/main/Resume.pdf
+Portfolio -> https://my-portfolio-lovat-seven-99.vercel.app/
+
+Email → choudharysarika244@gmail.com
 
 ---
 
