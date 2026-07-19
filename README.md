@@ -34,11 +34,11 @@ class Sarika:
 ---
 
 <p align="center">
-  <a href="https://github.com/Sarika861/Sarika861/blob/main/Resume.pdf">
+  <a href="https://github.com/Sarika861/Sarika861/blob/main/Sarika_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Sarika861/Sarika861/raw/main/Resume.pdf">
+  <a href="https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-28A745?style=for-the-badge&logo=download&logoColor=white" />
   </a>
 </p>
@@ -149,9 +149,9 @@ class Sarika:
 
 LinkedIn → www.linkedin.com/in/sarika-choudhary-a585a7372
 
-📥 Download Resume →https://github.com/Sarika861/Sarika861/blob/main/Final%20resume.pdf
+📥 **Resume:** https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf
 
-Portfolio -> https://my-portfolio-lovat-seven-99.vercel.app/
+🌐 **Portfolio:** https://my-portfolio-lovat-seven-99.vercel.app/
 
 Email → choudharysarika244@gmail.com
 
