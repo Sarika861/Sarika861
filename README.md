@@ -147,13 +147,13 @@ class Sarika:
 
 # 🌍 Connect With Me
 
-LinkedIn → www.linkedin.com/in/sarika-choudhary-a585a7372
+💼 **LinkedIn:** [Sarika Choudhary](https://www.linkedin.com/in/sarika-choudhary-a585a7372)
 
-📥 **Resume:** https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf
+📧 **Email:** [choudharysarika244@gmail.com](mailto:choudharysarika244@gmail.com)
 
-🌐 **Portfolio:** https://my-portfolio-lovat-seven-99.vercel.app/
+📥 **Resume:** [Download Resume](https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf)
 
-Email → choudharysarika244@gmail.com
+🌐 **Portfolio:** [Visit Portfolio](https://my-portfolio-lovat-seven-99.vercel.app/)
 
 ---
 
