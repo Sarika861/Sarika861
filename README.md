@@ -93,16 +93,6 @@ class Sarika:
 
 ---
 
-# 📊 GitHub Analytics
-
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarika861&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika861&layout=compact&theme=radical"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
