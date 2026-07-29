@@ -145,11 +145,10 @@ class Sarika:
 <img src="https://skillicons.dev/icons?i=git" width="48"/>
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-<img src="https://skillicons.dev/icons?i=postman" width="48"/>
 <img src="https://skillicons.dev/icons?i=docker" width="48"/>
 </p>
 
-**Git • GitHub • VS Code • Postman • Docker**
+**Git • GitHub • VS Code •  Docker**
 
 </div>
 
