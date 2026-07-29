@@ -230,34 +230,6 @@ class Sarika:
 🚀 AI Powered Applications
 ```
 
----
-
-# 💼 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</a>
-
-<a href="https://www.codechef.com/">
-
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
 # 💭 Developer Mindset
 
 ```python
