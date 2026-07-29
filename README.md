@@ -223,7 +223,7 @@ class Sarika:
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
 ### 🧴 Skincare Recommendation System
 
@@ -243,9 +243,7 @@ class Sarika:
 
 </td>
 
-<td>
-
-<td>
+<td width="50%">
 
 ### ⌨️ Virtual Keyboard
 
@@ -265,12 +263,10 @@ class Sarika:
 - Contactless Typing Experience
 
 </td>
-
-</td>
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
 ### 🎬 Movie Ticket Booking System
 
@@ -289,28 +285,29 @@ class Sarika:
 
 </td>
 
-<td>
+<td width="50%">
 
-### 🛒 Ecommerce Website
+### 🛒 Amazon Clone
 
-📌 E-Commerce Frontend Website
+📌 Responsive E-Commerce Frontend
 
 ✨ **Tech Stack**
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 🎯 **Key Features**
-- Product Pages
+- Responsive Design
+- Product Listings
 - Shopping Cart UI
-- Responsive Layout
-- Modern Design
+- Modern Landing Page
+- User-Friendly Interface
 
 </td>
 </tr>
-</table>
 
----
+</table>
 
 
 # 📈 GitHub Contributions
