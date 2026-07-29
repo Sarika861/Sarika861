@@ -288,39 +288,57 @@ while alive:
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sarika-choudhary-a585a7372">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<a href="https://www.linkedin.com/in/sarika-choudhary-a585a7372" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:choudharysarika244@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+  <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://my-portfolio-lovat-seven-99.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
+<a href="https://my-portfolio-lovat-seven-99.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf">
-
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing Together!
+
+💼 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/sarika-choudhary-a585a7372">linkedin.com/in/sarika-choudhary-a585a7372</a>
+
+📧 **Email:**  
+<a href="mailto:choudharysarika244@gmail.com">choudharysarika244@gmail.com</a>
+
+🌐 **Portfolio:**  
+<a href="https://my-portfolio-lovat-seven-99.vercel.app/">my-portfolio-lovat-seven-99.vercel.app</a>
+
+📄 **Resume:**  
+<a href="https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf">View / Download Resume</a>
+
+</div>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent solutions with Python, AI & Data Science — one project at a time."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=120&section=footer"/>
 
 </p>
 
