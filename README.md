@@ -287,7 +287,7 @@ class Sarika:
 
 <td width="50%">
 
-### 🛒 Amazon Clone
+### 🛒 Ecommerce Website
 
 📌 Responsive E-Commerce Frontend
 
