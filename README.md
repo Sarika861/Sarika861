@@ -133,10 +133,9 @@ class Sarika:
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
 </p>
 
-**MySQL • MongoDB**
+**MySQL**
 
 ---
 
