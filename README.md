@@ -245,21 +245,26 @@ class Sarika:
 
 <td>
 
-### 🏡 House Price Prediction
+<td>
 
-📌 Machine Learning Regression Model
+### ⌨️ Virtual Keyboard
+
+📌 AI-powered Virtual Keyboard using Hand Gestures
 
 ✨ **Tech Stack**
 - Python
-- Scikit-Learn
-- Pandas
-- NumPy
+- OpenCV
+- MediaPipe
+- Flask
 
 🎯 **Key Features**
-- Price Prediction
-- Data Preprocessing
-- Feature Engineering
-- Regression Analysis
+- Hand Gesture Recognition
+- Touchless Virtual Keyboard
+- Real-time Finger Tracking
+- Live Camera Integration
+- Contactless Typing Experience
+
+</td>
 
 </td>
 </tr>
