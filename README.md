@@ -174,16 +174,136 @@ class Sarika:
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🧠 Resume Parser & Job Matcher | FastAPI + LangChain + Gemini + ChromaDB |
-| 🩺 Face Mask Detection | TensorFlow + OpenCV + Gradio |
-| 🧴 Skincare Recommendation System | AI-based Recommendation System |
-| 🏠 House Price Prediction | Machine Learning Regression |
-| 🎬 Movie Ticket Booking | Responsive Web Application |
-| 🛒 Amazon Clone | HTML • CSS • JavaScript |
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Resume Parser & Job Matcher
+
+📌 AI-powered Resume Screening Platform
+
+✨ **Tech Stack**
+- FastAPI
+- LangChain
+- Google Gemini
+- ChromaDB
+- Angular
+- Bootstrap
+
+🎯 **Key Features**
+- Resume Parsing
+- AI-based Job Matching
+- Semantic Search
+- Skill Extraction
+- REST API
+
+</td>
+
+<td width="50%">
+
+### 😷 Face Mask Detection
+
+📌 Real-time Face Mask Detection System
+
+✨ **Tech Stack**
+- Python
+- TensorFlow
+- OpenCV
+- Gradio
+
+🎯 **Key Features**
+- Live Camera Detection
+- Deep Learning Model
+- Fast Prediction
+- User-friendly Interface
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧴 Skincare Recommendation System
+
+📌 Personalized AI Recommendation Engine
+
+✨ **Tech Stack**
+- Python
+- Machine Learning
+- Pandas
+- Scikit-Learn
+
+🎯 **Key Features**
+- Skin Type Analysis
+- Product Recommendation
+- Personalized Suggestions
+- Data-driven Predictions
+
+</td>
+
+<td>
+
+### 🏡 House Price Prediction
+
+📌 Machine Learning Regression Model
+
+✨ **Tech Stack**
+- Python
+- Scikit-Learn
+- Pandas
+- NumPy
+
+🎯 **Key Features**
+- Price Prediction
+- Data Preprocessing
+- Feature Engineering
+- Regression Analysis
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎬 Movie Ticket Booking System
+
+📌 Responsive Web Application
+
+✨ **Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+🎯 **Key Features**
+- Movie Listings
+- Seat Booking
+- Responsive UI
+- Interactive Design
+
+</td>
+
+<td>
+
+### 🛒 Ecommerce Website
+
+📌 E-Commerce Frontend Website
+
+✨ **Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+🎯 **Key Features**
+- Product Pages
+- Shopping Cart UI
+- Responsive Layout
+- Modern Design
+
+</td>
+</tr>
+</table>
 
 ---
 
