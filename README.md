@@ -83,35 +83,74 @@ class Sarika:
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technical Stack
 
 <div align="center">
 
-## 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<img src="https://skillicons.dev/icons?i=java" width="48"/>
+<img src="https://skillicons.dev/icons?i=js" width="48"/>
+<img src="https://skillicons.dev/icons?i=html" width="48"/>
+<img src="https://skillicons.dev/icons?i=css" width="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+</p>
 
-<br><br>
+**Python • Java • JavaScript • HTML5 • CSS3 • SQL**
 
-## 🤖 AI • Machine Learning
+---
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+### 🤖 AI / Machine Learning
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="48"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
+</p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter"/>
+**TensorFlow • PyTorch • OpenCV • Pandas • NumPy • Scikit-Learn • Jupyter Notebook**
 
-<br><br>
+---
 
-## ⚡ Backend
+### ⚡ Backend Development
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
+<img src="https://skillicons.dev/icons?i=flask" width="48"/>
+</p>
 
-<br><br>
+**FastAPI • Flask**
 
-## ☁ Database & Tools
+---
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,docker"/>
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+</p>
+
+**MySQL • MongoDB**
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+<img src="https://skillicons.dev/icons?i=postman" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48"/>
+</p>
+
+**Git • GitHub • VS Code • Postman • Docker**
 
 </div>
 
@@ -151,11 +190,11 @@ class Sarika:
 ---
 
 
-# 🐍 Contribution Snake
+# 📈 GitHub Contributions
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Sarika861/Sarika861/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarika861&theme=github-compact&hide_border=true"/>
 
 </p>
 
