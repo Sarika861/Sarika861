@@ -405,25 +405,7 @@ while alive:
 
 ---
 
-<div align="center">
 
-### 💬 Let's Connect & Build Something Amazing Together!
-
-💼 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/sarika-choudhary-a585a7372">linkedin.com/in/sarika-choudhary-a585a7372</a>
-
-📧 **Email:**  
-<a href="mailto:choudharysarika244@gmail.com">choudharysarika244@gmail.com</a>
-
-🌐 **Portfolio:**  
-<a href="https://my-portfolio-lovat-seven-99.vercel.app/">my-portfolio-lovat-seven-99.vercel.app</a>
-
-📄 **Resume:**  
-<a href="https://github.com/Sarika861/Sarika861/raw/main/Sarika_Resume.pdf">View / Download Resume</a>
-
-</div>
-
----
 
 <p align="center">
 
