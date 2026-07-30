@@ -409,8 +409,6 @@ while alive:
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
 *"Building intelligent solutions with Python, AI & Data Science — one project at a time."* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=120&section=footer"/>
